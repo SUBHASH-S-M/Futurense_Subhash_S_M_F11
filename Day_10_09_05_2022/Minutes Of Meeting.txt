@@ -1,0 +1,8 @@
+Morning Session
+Discussed the agenda for the day and course
+Moved to pandas and its nesscaities
+Introduced how to convert data into dataframe,indesxing etc
+Peformed some operation on the real tym dataset
+Afternoon Session
+Worked on analytical functions adhering to the proposed schedule.
+
