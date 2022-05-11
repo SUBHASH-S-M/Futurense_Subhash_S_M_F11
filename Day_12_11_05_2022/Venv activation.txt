@@ -1,0 +1,31 @@
+Microsoft Windows [Version 10.0.19044.1682]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Futurense>cd Desktop
+
+C:\Users\Futurense\Desktop>cd Futurense_Subhash_S_M_F11-main
+
+C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main>mkdir Day_12_11_05_2001
+
+C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main>cd Day_12_11_05_2001
+
+C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main\Day_12_11_05_2001>py -m venv python_2.7_installation
+
+C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main\Day_12_11_05_2001>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6CE7-B9A1
+
+ Directory of C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main\Day_12_11_05_2001
+
+11-05-2022  09:39    <DIR>          .
+11-05-2022  09:39    <DIR>          ..
+11-05-2022  09:39    <DIR>          python_2.7_installation
+               0 File(s)              0 bytes
+               3 Dir(s)  416,932,581,376 bytes free
+
+C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main\Day_12_11_05_2001>cd python_2.7_installation
+
+C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main\Day_12_11_05_2001\python_2.7_installation>Scripts\activate
+
+(python_2.7_installation) C:\Users\Futurense\Desktop\Futurense_Subhash_S_M_F11-main\Day_12_11_05_2001\python_2.7_installation>deactivate
+
